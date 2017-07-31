@@ -1,3 +1,13 @@
-# Js App Boilerplate
+# Js App Modules
 
-This is a js app boilerplate with batteries included to speed up project initiation.
+Common utility modules.
+
+- [Getting Started](#getting-started)
+- [Forms Validation](./__tests__/validations.spec.js)
+
+
+## Getting Started
+
+```
+yarn add js-app-modules
+```
